@@ -1,0 +1,9 @@
+name: Stefhen Kafka
+description: |
+  (Experimental) Kafka cluster
+version: 0.0.1
+category: Clustering
+maintainer: "x@x.com"
+minimum_rancher_version: v0.59.0
+license: 
+projectURL: https://github.com/rawmind0/alpine-kafka
