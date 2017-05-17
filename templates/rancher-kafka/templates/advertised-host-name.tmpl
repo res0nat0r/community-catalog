@@ -1,0 +1,1 @@
+{{if exists "/self/service/metadata/accessible_from_public_ip"}}{{getv "/self/host/agent_ip" }}{{else}}{{getv "/self/container/primary_ip" }}{{end}}
