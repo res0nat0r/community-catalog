@@ -1,7 +1,0 @@
-[template]
-src = "advertised-host-name.tmpl"
-dest = "/kafka/config/advertised-host-name"
-keys = [
-    "/self/host",
-]
-mode = "0600"
